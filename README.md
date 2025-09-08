@@ -1,6 +1,6 @@
 # 📱 TecnoSênior – Inclusão Digital para Idosos  
 
-![TecnoSênior Banner](./TecnoSenior_Banner.png)
+![TecnoSênior Banner](./Banner Senior.png)
 
 O **TecnoSênior** é um projeto acadêmico desenvolvido na **Experiência Prática 4** (Cruzeiro do Sul Virtual), com foco em **sustentabilidade, inclusão e impacto social**.  
 
